@@ -1,5 +1,5 @@
 # Authentication System
-This system have Database Encrytion Method .
+This system has a Database Encryption Method .
 
 # Set up
 Step 1:run `mongod` on hyper terminal <br />
